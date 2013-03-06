@@ -3,7 +3,7 @@
  * Author: Jorge Torres - jotorres1@gmail.com
  * Website: http://www.jotorres.com 
  * Date:   1/1/2012
- * Version: 1.0
+ * Version: 2.0
  * Description:  Simple sessions class that can be used with regular PHP projects
  *  			 or can be integrated as a custom library for codeigniter framework.
  * Documentation: http://www.jotorres.com/2012/06/simple-sessions-class/ 
